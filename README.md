@@ -1,2 +1,2 @@
 # Algoritmo-Genetico
-Apenas uma implementação do algoritmo genético em Python
+Uma implementação do algoritmo genético em Python
